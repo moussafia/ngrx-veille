@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "mohammed",
+      "nationality": "marocaine"
+    },
+    {
+      "id": 2,
+      "name": "moussa",
+      "nationality": "marocaine"
+    },
+    {
+      "id": 3,
+      "name": "simo",
+      "nationality": "marocaine"
+    },
+    {
+      "name": "fifel",
+      "nationality": "Itaque labore velit",
+      "id": 4
+    },
+    {
+      "name": "Enim cupiditate dolo",
+      "nationality": "Est ducimus cillum ",
+      "id": 5
+    },
+    {
+      "name": "kedk",
+      "nationality": "ekjrj",
+      "id": 6
+    }
+  ]
+}
